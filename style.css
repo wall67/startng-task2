@@ -1,0 +1,93 @@
+.cv-container{
+    width:66%;
+   margin: 0 auto;
+   box-shadow: 0 0 6px #000;
+}
+#detail p{
+    margin-top: -16px;
+}
+#detail h1,#detail p{
+    text-align: center;
+}
+
+#image{
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}
+#image img{
+    height: 100px;
+    width: 100px;
+    margin : 6px;
+    box-shadow: 0 0 6px gray;
+}
+
+#psummary{
+    width:90%;
+    height: auto;
+    margin: -50px auto 10px auto;
+    padding :20px;
+}
+#psummary p{
+    text-align: justify;
+    margin-top: -16px;
+    margin-left: 250px;
+}
+#psummary h3{
+    margin-top: -14px;
+    margin-left: 20px;
+}
+
+#skill{
+    margin-left: 30px;
+     margin-top: -14px;
+
+}
+#skill ul{
+    margin-left: 250px;
+}
+#work{
+    margin-left: 30px;
+}
+#work h4{
+    margin-left:190px;
+}
+#work ul{
+    margin-left:250px;
+}
+#qualifications{
+    margin-left: 30px;
+}
+#qualifications ul{
+    margin-left:250px;
+}
+#additional{
+    margin-left:30px;
+}
+#additional ul{
+    margin-left:250px;
+}
+#awards{
+    margin-left:30px;
+}
+#awards ul{
+    margin-left:250px;
+}
+#interest{
+    margin-left:30px;
+}
+#interest ul{
+    margin-left:250px;
+}
+#personal {
+    margin-left:30px;
+}
+.info-container{
+    margin-left:250px;
+}
+#refree{
+    margin-left:30px;
+}
+#refree ul{
+    margin-left: 250px;
+}
